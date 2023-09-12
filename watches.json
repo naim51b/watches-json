@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "brand": "Apple",
+    "model": "Watch Series 7",
+    "displaySize": "45mm",
+    "price": 399.99,
+    "features": ["ECG", "Fitness Tracking", "Waterproof"],
+    "colors": ["Silver", "Space Gray", "Blue"]
+  },
+  {
+    "id": 2,
+    "brand": "Samsung",
+    "model": "Galaxy Watch 4",
+    "displaySize": "44mm",
+    "price": 299.99,
+    "features": ["Fitness Tracking", "Sleep Analysis", "Bluetooth Calling"],
+    "colors": ["Black", "Silver", "Green"]
+  },
+  {
+    "id": 3,
+    "brand": "Fitbit",
+    "model": "Sense",
+    "displaySize": "40mm",
+    "price": 249.95,
+    "features": ["Heart Rate Monitoring", "Stress Tracking", "SpO2"],
+    "colors": ["Graphite", "Lunar White", "Carbon"]
+  },
+  {
+    "id": 4,
+    "brand": "Garmin",
+    "model": "Forerunner 945",
+    "displaySize": "47mm",
+    "price": 599.99,
+    "features": ["GPS", "Advanced Running Metrics", "Music Storage"],
+    "colors": ["Black", "Slate Gray", "Cerise"]
+  },
+  {
+    "id": 5,
+    "brand": "Fossil",
+    "model": "Gen 5",
+    "displaySize": "44mm",
+    "price": 279.00,
+    "features": ["Wear OS", "Heart Rate Tracking", "Customizable Dials"],
+    "colors": ["Smoke", "Black", "Rose Gold"]
+  }
+]
